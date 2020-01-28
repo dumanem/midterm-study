@@ -38,7 +38,7 @@ public class Assignment2 {
         
         System.out.println(commission.toString());
 
-        
+        //degisiklik yapıp commit and push yapıyorum
         
         
         
