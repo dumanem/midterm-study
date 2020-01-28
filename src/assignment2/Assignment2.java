@@ -40,7 +40,7 @@ public class Assignment2 {
 
         //degisiklik yapıp commit and push yapıyorum
         
-        
+        //hsfksfskvskfsfsrf
         
         
         
