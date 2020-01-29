@@ -46,7 +46,7 @@ public class Assignment2 {
         
         //ı fetch and merged it
         //xcxcjvöjvj
-        
+        //ı edited before pulling the file
         
     }
     
