@@ -42,6 +42,8 @@ public class Assignment2 {
         
         //hsfksfskvskfsfsrf
         
+        //ı fetch and merged it
+        
         
         
     }
