@@ -12,6 +12,7 @@ import java.util.Scanner;
 /**
  *I CREATED A BRANCH AND MERGE WİTH MASTER ONE
  *HEYOOOOOOOOOO
+ *MASTER BRANCH IT WILL BE MERGED WITH ANOTHER BRANCH
  * @author emreduman
  */
 public class Assignment2 {
