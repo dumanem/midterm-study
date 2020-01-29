@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 //I EDITED THIS PROJECT BY WRITING THIS COMMENT ON MY GİT RESPIRATORY
 /**
- *
+ *MASTER BRANCH IT WILL BE MERGED WITH ANOTHER BRANCH
  * @author emreduman
  */
 public class Assignment2 {
