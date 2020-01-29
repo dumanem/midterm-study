@@ -11,6 +11,7 @@ import java.util.Scanner;
 //I EDITED THIS PROJECT BY WRITING THIS COMMENT ON MY GİT RESPIRATORY
 /**
  *I CREATED A BRANCH AND MERGE WİTH MASTER ONE
+ *HEYOOOOOOOOOO
  * @author emreduman
  */
 public class Assignment2 {
