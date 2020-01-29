@@ -7,6 +7,8 @@ package assignment2;
 
 import java.util.Scanner;
 
+
+//I EDITED THIS PROJECT BY WRITING THIS COMMENT ON MY GİT RESPIRATORY
 /**
  *
  * @author emreduman
